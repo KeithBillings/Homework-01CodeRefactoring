@@ -13,7 +13,8 @@ Example of taking an existing website, and refactoring it to make it look the sa
 	
 	Next, I used VSC to work on the website and refactor it
 	
-	Once I was finished, I committed my changes (via the GitBash console within VSC) and pushed it to the branch I created to simulate myself proposing project changes to a group. 
+	Once I was finished, I committed my changes (via the GitBash console within VSC) and pushed it to the branch 
+	I created to simulate myself proposing project changes to a group. 
 	
 	Being a group of one, I approved the changes that were committed, and merged the branch into the Master
 	
