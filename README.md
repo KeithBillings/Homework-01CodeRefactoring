@@ -21,4 +21,12 @@ Example of taking an existing website, and refactoring it to make it look the sa
 	
 ### Changes made
 	
-	TBA
+	The "Search Engine Optimization" link in the header was not working
+
+	Added comments to style.css to break each part up into legible sections
+
+	Consolidated elements that were identical 
+
+	Renamed those elements to something more practical 
+
+	Changed the corresponding html elements to match the id tags
