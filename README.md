@@ -30,3 +30,7 @@ Example of taking an existing website, and refactoring it to make it look the sa
 	Renamed those elements to something more practical 
 
 	Changed the corresponding html elements to match the id tags
+	
+	Changed some semantic tags 
+	
+	Added alts to images
